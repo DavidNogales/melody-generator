@@ -2,6 +2,8 @@
 
 This project was developed for the winter Deep Learning course at JEDI Academy in 2021-22 Q1.
 
+![Real and Predicted fragments](img/music_sheet_generation "Music sheet of the melody with Real and Predicted fragments")
+
 ## Objective
 The aim of the project is to continue any given melody in a Baroque style by training a Neural Network on Bach's Chorales.
 
