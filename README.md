@@ -26,7 +26,7 @@ The aim of the project is to continue any given melody in a Baroque style by tra
 
 ## Methodology
 
-For a complete description of the project refer to the Notebook in which each step is throughly explained.
+For a complete description of the project refer to the Notebook in which each step is thoroughly  explained.
 
 ## Conclusion and Future Work
 
